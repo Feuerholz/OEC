@@ -1,0 +1,12 @@
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+OEC/.vs/OEC/v15/.suo
+OEC/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+OEC/obj/Debug/OEC.csproj.CoreCompileInputs.cache
+OEC/obj/Debug/OEC.csprojResolveAssemblyReference.cache
+OEC/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+OEC/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+OEC/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
