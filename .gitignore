@@ -10,3 +10,110 @@ OEC/obj/Debug/OEC.csprojResolveAssemblyReference.cache
 OEC/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 OEC/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
 OEC/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+OEC UI/bin/Debug/credentials.json
+OEC/obj/Release/OEC.csproj.CoreCompileInputs.cache
+OEC/obj/Debug/build.force
+OEC/obj/Debug/OEC.csproj.CopyComplete
+OEC/obj/Debug/OEC.csproj.FileListAbsolute.txt
+OEC/obj/Debug/OEC.dll
+OEC/obj/Debug/OEC.pdb
+OEC/obj/Debug/build.force
+OEC/credentials.json
+OEC/bin/Debug/System.Xml.XPath.XDocument.dll
+OEC/bin/Debug/System.Threading.Tasks.Extensions.xml
+OEC/bin/Debug/System.Threading.Tasks.Extensions.dll
+OEC/bin/Debug/System.Threading.Overlapped.dll
+OEC/bin/Debug/System.Security.SecureString.dll
+OEC/bin/Debug/System.Security.Cryptography.Cng.dll
+OEC/bin/Debug/System.Security.Cryptography.Algorithms.dll
+OEC/bin/Debug/System.Runtime.Serialization.Primitives.dll
+OEC/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+OEC/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+OEC/bin/Debug/System.Net.Sockets.dll
+OEC/bin/Debug/System.Net.Http.dll
+OEC/bin/Debug/System.IO.Compression.dll
+OEC/bin/Debug/System.Globalization.Extensions.dll
+OEC/bin/Debug/System.Diagnostics.Tracing.dll
+OEC/bin/Debug/System.Diagnostics.StackTrace.dll
+OEC/bin/Debug/System.Data.Common.dll
+OEC/bin/Debug/System.Buffers.xml
+OEC/bin/Debug/System.Buffers.dll
+OEC/bin/Debug/Sparrow.dll
+OEC/bin/Debug/Raven.Client.dll
+OEC/bin/Debug/OMP.dll
+OEC/bin/Debug/OEC.pdb
+OEC/bin/Debug/OEC.dll.config
+OEC/bin/Debug/OEC.dll
+OEC/bin/Debug/Newtonsoft.Json.xml
+OEC/bin/Debug/Newtonsoft.Json.dll
+OEC/bin/Debug/Lambda2Js.Signed.xml
+OEC/bin/Debug/Lambda2Js.Signed.dll
+OEC/bin/Debug/Google.Apis.xml
+OEC/bin/Debug/Google.Apis.Sheets.v4.xml
+OEC/bin/Debug/Google.Apis.Sheets.v4.pdb
+OEC/bin/Debug/Google.Apis.Sheets.v4.dll
+OEC/bin/Debug/Google.Apis.PlatformServices.dll
+OEC/bin/Debug/Google.Apis.pdb
+OEC/bin/Debug/Google.Apis.dll
+OEC/bin/Debug/Google.Apis.Core.xml
+OEC/bin/Debug/Google.Apis.Core.pdb
+OEC/bin/Debug/Google.Apis.Core.dll
+OEC/bin/Debug/Google.Apis.Auth.xml
+OEC/bin/Debug/Google.Apis.Auth.PlatformServices.dll
+OEC/bin/Debug/Google.Apis.Auth.pdb
+OEC/bin/Debug/Google.Apis.Auth.dll
+OEC/bin/Debug/credentials.json
+OEC/.vs/config/applicationhost.config
+OEC UI/obj/Release/OEC UI.csprojResolveAssemblyReference.cache
+OEC UI/obj/Release/OEC UI.csproj.CoreCompileInputs.cache
+OEC UI/obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
+OEC UI/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+OEC UI/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+OEC UI/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+OEC UI/obj/Debug/OEC_UI.Properties.Resources.resources
+OEC UI/obj/Debug/OEC_UI.Form1.resources
+OEC UI/obj/Debug/OEC UI.pdb
+OEC UI/obj/Debug/OEC UI.exe
+OEC UI/obj/Debug/OEC UI.csprojResolveAssemblyReference.cache
+OEC UI/obj/Debug/OEC UI.csproj.GenerateResource.cache
+OEC UI/obj/Debug/OEC UI.csproj.FileListAbsolute.txt
+OEC UI/obj/Debug/OEC UI.csproj.CoreCompileInputs.cache
+OEC UI/obj/Debug/OEC UI.csproj.CopyComplete
+OEC UI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+OEC UI/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+OEC UI/bin/Debug/token.json/Google.Apis.Auth.OAuth2.Responses.TokenResponse-user
+OEC UI/bin/Debug/System.Threading.Tasks.Extensions.xml
+OEC UI/bin/Debug/System.Threading.Tasks.Extensions.dll
+OEC UI/bin/Debug/System.Runtime.CompilerServices.Unsafe.xml
+OEC UI/bin/Debug/System.Runtime.CompilerServices.Unsafe.dll
+OEC UI/bin/Debug/System.Buffers.xml
+OEC UI/bin/Debug/System.Buffers.dll
+OEC UI/bin/Debug/Sparrow.dll
+OEC UI/bin/Debug/Raven.Client.dll
+OEC UI/bin/Debug/OMP.dll
+OEC UI/bin/Debug/OEC.pdb
+OEC UI/bin/Debug/OEC.dll.config
+OEC UI/bin/Debug/OEC.dll
+OEC UI/bin/Debug/OEC UI.pdb
+OEC UI/bin/Debug/OEC UI.exe.config
+OEC UI/bin/Debug/OEC UI.exe
+OEC UI/bin/Debug/Newtonsoft.Json.xml
+OEC UI/bin/Debug/Newtonsoft.Json.dll
+OEC UI/bin/Debug/LiteDB.xml
+OEC UI/bin/Debug/LiteDB.dll
+OEC UI/bin/Debug/Lambda2Js.Signed.xml
+OEC UI/bin/Debug/Lambda2Js.Signed.dll
+OEC UI/bin/Debug/Google.Apis.xml
+OEC UI/bin/Debug/Google.Apis.Sheets.v4.xml
+OEC UI/bin/Debug/Google.Apis.Sheets.v4.pdb
+OEC UI/bin/Debug/Google.Apis.Sheets.v4.dll
+OEC UI/bin/Debug/Google.Apis.pdb
+OEC UI/bin/Debug/Google.Apis.dll
+OEC UI/bin/Debug/Google.Apis.Core.xml
+OEC UI/bin/Debug/Google.Apis.Core.pdb
+OEC UI/bin/Debug/Google.Apis.Core.dll
+OEC UI/bin/Debug/Google.Apis.Auth.xml
+OEC UI/bin/Debug/Google.Apis.Auth.pdb
+OEC UI/bin/Debug/Google.Apis.Auth.dll
+OEC UI/bin/Debug/Elo.70576B1B482B6AC3.raven-database-topology
+.vs/slnx.sqlite
